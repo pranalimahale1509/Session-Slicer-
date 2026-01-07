@@ -1,0 +1,11 @@
+customtkinter
+Pillow
+matplotlib
+numpy
+requests
+plyer
+python-dotenv
+sounddevice
+soundfile
+SpeechRecognition
+pyttsx3
